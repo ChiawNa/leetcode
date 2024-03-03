@@ -23,3 +23,5 @@ def twoSum(nums, target):
         if complement in num_indices:
             return [num_indices[complement], i]
         num_indices[num] = i
+
+#hai
